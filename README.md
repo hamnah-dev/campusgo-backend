@@ -1,1 +1,1 @@
-# campusCo-backend
+# campusGo-backend
